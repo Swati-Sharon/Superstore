@@ -12,4 +12,3 @@ Details of the files:
 
 Here is the snapshot of Tableau Dashboard of Superstore dataset containing sales Analysis:
 ![Superstore_Tableau](https://github.com/Swati-Sharon/Superstore/assets/20124625/4b081913-4183-49db-910a-1a76626e1727)
-# ![Superstore_pdf](https://github.com/Swati-Sharon/Superstore/files/15183722/Superstore_Tableau.pdf)
