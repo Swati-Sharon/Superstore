@@ -9,3 +9,6 @@ Details of the files:
 2) superstore.csv- Superstore dataset
 3) Superstore.sql - SQL file
 4) Superstore.twb- Dashboard for superstore using Tableau
+
+Here is the snapshot of Tableau Dashboard of Superstore dataset conataing sales Analysis:
+[Superstore_Tableau.pdf](https://github.com/Swati-Sharon/Superstore/files/15183722/Superstore_Tableau.pdf)
